@@ -115,6 +115,10 @@ div.blog1-content:nth-child(odd) {
     margin-right: 6%;
 }
 
+div.row {
+    margin-top: 100px;
+}
+
 h2.blog-heading {
     margin: 20px 0 30px;
 }
