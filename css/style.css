@@ -142,8 +142,7 @@ div.wrapper3 {
     min-height: 130px;
 }
 
-input.newsletter {
-    margin: 0 10px;
+input.newsletter {    
     width: 45%;
     font-size: 14px;
     border-top: none;
